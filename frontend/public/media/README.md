@@ -1,6 +1,6 @@
 # Images média YasCareer
 
-Photos issues de [yas.tg/particulier/carriere](https://yas.tg/particulier/carriere/) (équipe Yas Togo).
+Photos de l’équipe Yas Togo, pour la page carrière.
 
 Remplacez ces fichiers en gardant les mêmes noms pour mettre à jour la landing sans toucher au code :
 

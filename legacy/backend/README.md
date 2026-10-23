@@ -50,4 +50,4 @@ Templates : bienvenue, confirmation candidature, changement de statut, convocati
 
 ## Comptes seed (exemples)
 
-Voir `prisma/seed.js` — typiquement `admin@yastogo.tg`, `rh@yastogo.tg`, `superviseur@yastogo.tg`, `candidat1@test.tg`.
+Demo credentials available on request.
