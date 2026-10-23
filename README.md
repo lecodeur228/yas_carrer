@@ -38,18 +38,7 @@ npm run dev
 
 ### Comptes de démo
 
-Mot de passe pour tous : `Password123!`
-
-| Rôle | Email |
-|------|-------|
-| Admin | `admin@yascareer.tg` |
-| RH | `rh@yascareer.tg` |
-| RH (2) | `rh2@yascareer.tg` |
-| Candidat | `candidat@yascareer.tg` |
-| Candidat commercial | `kodjo.mensah@test.tg` |
-| Candidat marketing | `ama.agbeko@test.tg` |
-| Candidat télécoms | `yawo.adjovi@test.tg` |
-| Candidat finance | `esse.tchedre@test.tg` |
+Demo credentials available on request.
 
 Le seed crée **~29 offres** Yas Togo (digital, réseau, vente, RH, finance, Mixx, FTTH, régions Plateaux/Savanes…).
 
